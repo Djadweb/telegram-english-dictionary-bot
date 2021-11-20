@@ -6,7 +6,7 @@
 - nodemon
 - node telegram bot api
 
-Usage : 
+## Usage : 
 - Open telegram 
 - Search for Botfather 
 - Follow instructions and get your token 
